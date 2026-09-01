@@ -17,3 +17,13 @@ Employers can use this project to evaluate my capability to convert raw business
 -  Calculate KPIs
 -  Explore business magnitude
 -  Identify rankings and trends
+
+# 📚 Analysis Sections
+# 1️⃣ Database Exploration
+
+Investigating:
+
+-  Tables
+-  Schemas
+-  Metadata
+-  Columns
