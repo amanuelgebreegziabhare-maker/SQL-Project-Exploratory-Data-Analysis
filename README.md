@@ -49,3 +49,10 @@ Employers can use this project to evaluate my capability to convert raw business
 -  Total Orders
 -  Total Customers
 -  Total Products
+
+
+ **[5️⃣ Magnitude Analysis](documents/magnitude-analysis.sql):** compare the measure value with category. It helps to understand the importance of different categories:
+
+-  Sales by Country
+-  Revenue by Product
+-  Customer Distribution
