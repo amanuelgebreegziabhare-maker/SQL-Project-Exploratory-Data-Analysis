@@ -26,3 +26,11 @@ Employers can use this project to evaluate my capability to convert raw business
 -  Schemas
 -  Metadata
 -  Columns
+
+
+- **[2️⃣ Dimension Exploration](documents/dimensions_in_databse.sql):** Identify the unique value in each dimension, recognizing how data might be grouped or segmented. This is the Analysis of:
+
+-  Countries
+-  Categories
+-  Subcategories
+-  Products
