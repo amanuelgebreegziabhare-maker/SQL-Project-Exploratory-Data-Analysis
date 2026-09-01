@@ -20,7 +20,7 @@ Employers can use this project to evaluate my capability to convert raw business
 
 # 📚 Analysis Sections
 
-- **[1️⃣ Database Exploration](documents/objects_in_the_database.sql):** this section is concerned with exploring "all objects in the Database". This is done through the windows function 'INFORMATION_SCHEMA.TABLES' and 'INFORMATION_SCHEMA.COLUMNS' to obtain information about the tables and columns the database contain. It investigating:
+ **[1️⃣ Database Exploration](documents/objects_in_the_database.sql):** this section is concerned with exploring "all objects in the Database". This is done through the windows function 'INFORMATION_SCHEMA.TABLES' and 'INFORMATION_SCHEMA.COLUMNS' to obtain information about the tables and columns the database contain. It investigating:
 
 -  Tables
 -  Schemas
@@ -28,9 +28,16 @@ Employers can use this project to evaluate my capability to convert raw business
 -  Columns
 
 
-- **[2️⃣ Dimension Exploration](documents/dimensions_in_databse.sql):** Identify the unique value in each dimension, recognizing how data might be grouped or segmented. This is the Analysis of:
+ **[2️⃣ Dimension Exploration](documents/dimensions_in_databse.sql):** Identify the unique value in each dimension, recognizing how data might be grouped or segmented. This is the Analysis of:
 
 -  Countries
 -  Categories
 -  Subcategories
 -  Products
+
+
+ **[3️⃣ Date Exploration](documents/date_exploration.sql):** Identify the earliest and latest dates (boundaries), understand the scope of data and timespan. It gives insights regarding:
+
+-  First Order Date
+-  Last Order Date
+-  Data Coverage Period
