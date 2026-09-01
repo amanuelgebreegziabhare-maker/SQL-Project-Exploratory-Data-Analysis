@@ -62,3 +62,11 @@ Employers can use this project to evaluate my capability to convert raw business
 -  Best Customers
 -  Best Products
 -  Best Categories
+
+# 🛠 SQL Techniques Demonstrated
+✅ Aggregate Functions
+✅ DISTINCT
+✅ GROUP BY
+✅ ORDER BY
+✅ Date Functions
+✅ Business KPI Analysis
