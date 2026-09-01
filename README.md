@@ -41,3 +41,11 @@ Employers can use this project to evaluate my capability to convert raw business
 -  First Order Date
 -  Last Order Date
 -  Data Coverage Period
+
+
+ **[4️⃣ Measures Exploration](documents/measures_exploration.sql):** Business KPIs:
+
+-  Total Sales
+-  Total Orders
+-  Total Customers
+-  Total Products
