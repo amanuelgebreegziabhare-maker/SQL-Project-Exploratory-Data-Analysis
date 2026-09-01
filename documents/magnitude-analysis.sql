@@ -1,3 +1,4 @@
+--Magnitude Analysis--
 /*compare the measure value with category. It helps to understand the importance of different categories:
 
 -  Sales by Country
