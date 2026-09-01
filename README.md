@@ -56,3 +56,9 @@ Employers can use this project to evaluate my capability to convert raw business
 -  Sales by Country
 -  Revenue by Product
 -  Customer Distribution
+
+
+ **[6️⃣ Ranking Analysis](documents/measures_exploration.sql):** Ranking:
+-  Best Customers
+-  Best Products
+-  Best Categories
