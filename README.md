@@ -19,9 +19,8 @@ Employers can use this project to evaluate my capability to convert raw business
 -  Identify rankings and trends
 
 # 📚 Analysis Sections
-# 1️⃣ Database Exploration
 
-Investigating:
+- **[1️⃣ Database Exploration](documents/objects_in_the_database.sql):** this section is concerned with exploring "all objects in the Database". This is done through the windows function 'INFORMATION_SCHEMA.TABLES' and 'INFORMATION_SCHEMA.COLUMNS' to obtain information about the tables and columns the database contain. It investigating:
 
 -  Tables
 -  Schemas
