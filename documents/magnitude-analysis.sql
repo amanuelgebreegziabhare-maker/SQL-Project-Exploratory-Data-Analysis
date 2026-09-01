@@ -56,6 +56,19 @@ FROM gold.fact_sales
 GROUP BY customer_key
 ORDER BY SUM(sales_amount) DESC
 
+-- What is the total revenue generated for each customer
+
+SELECT 
+	c.customer_key,
+	CONCAT(c.first_name, ' ' ,c.last_name) AS customer_name,
+	SUM(f.sales_amount) AS total_revenue
+
+FROM gold.fact_sales AS f
+LEFT JOIN gold.dim_customers c
+ON c.customer_key = f.customer_key
+GROUP BY c.customer_key, CONCAT(c.first_name, ' ' ,c.last_name)
+ORDER BY SUM(f.sales_amount) DESC
+
 -- What is the distribution of sold items by country
 
 SELECT 
