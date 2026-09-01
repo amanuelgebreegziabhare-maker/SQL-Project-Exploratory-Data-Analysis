@@ -58,7 +58,7 @@ Employers can use this project to evaluate my capability to convert raw business
 -  Customer Distribution
 
 
- **[6️⃣ Ranking Analysis](documents/measures_exploration.sql):** Ranking:
+ **[6️⃣ Ranking Analysis](documents/ranking_analysis.sql):** Orders the values of dimension by measure. TOP N performer, BOTOM N performers, Ranking:
 -  Best Customers
 -  Best Products
 -  Best Categories
